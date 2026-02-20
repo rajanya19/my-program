@@ -11,3 +11,7 @@ int main(){
 	
 	return 0;
 }
+//enter two values: 3 5
+//after swap:
+//a=5 b=3
+
