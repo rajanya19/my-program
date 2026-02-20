@@ -10,3 +10,8 @@ int main(){
 	}
 	return 0;
 }
+// enter your age: 20
+//you are eligible for voting
+//enter your age: 10
+//you are not eligible for voting
+
