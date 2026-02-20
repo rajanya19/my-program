@@ -7,3 +7,7 @@ int main(){
 	printf("average=%f",average);
 	return 0;
 }
+
+//enter two numbers: 2 4
+//average:4.000
+
