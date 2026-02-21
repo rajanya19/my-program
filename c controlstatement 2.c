@@ -16,3 +16,6 @@ int main(){
 	}
 	return 0;
 }
+//enter three numbers: 3 5 8
+//8 is larger
+
